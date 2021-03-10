@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: nguyenne's blog
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -35,7 +35,7 @@ params:
 
     sidebar:
         emoji: 👋
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Hi guys, my name is Nguyen and I'm 14 years old 
         avatar:
             local: false
             src: https://scontent-sin6-1.cdninstagram.com/v/t51.2885-19/s150x150/153549831_481889619480637_4240115370517282672_n.jpg?tp=1&_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_ohc=_mmrj--wAwIAX8GwP6_&oh=ccb2db60214db2051f1b51fe9729022e&oe=6071ACE8
