@@ -106,7 +106,7 @@ menu:
     main:
         - identifier: home
           name: Home
-          url: /
+          url: /index.html
           weight: -100
           pre: home
 
