@@ -34,11 +34,11 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 👋
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
-            local: true
-            src: img/avatar.png
+            local: false
+            src: https://scontent-sin6-1.cdninstagram.com/v/t51.2885-19/s150x150/153549831_481889619480637_4240115370517282672_n.jpg?tp=1&_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_ohc=_mmrj--wAwIAX8GwP6_&oh=ccb2db60214db2051f1b51fe9729022e&oe=6071ACE8
 
     article:
         math: false
