@@ -1,33 +1,21 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: About me
+date: '2020-03-01'
 aliases:
-  - about-us
-  - about-hugo
-  - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+#   - about-us
+#   - about-hugo
+#   - contact
+# license: CC BY-NC-ND
+# lastmod: '2020-10-03'
 menu:
-    main: 
+    main:
         weight: -90
         pre: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+My name is Nguyen and I'm 14 years old. I am currently residing in Vietnam, which is a country famous for its hospitality and scenery.
+![Vietnam](https://images.unsplash.com/photo-1521019795854-14e15f600980?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80)
+I'm current a student at a secondary school in Ho Chi Minh City so if I misspell any words, please give a me feedback so that I can make a improvement in the future🥺
+My main language is Vietnamese so that most posts in this blog will be in Vietnamese, but I will try my best to post in English as many as possible cause my English is terrible.
+Thank you so much for spending a little time to read my stupid posts, love u all <3
